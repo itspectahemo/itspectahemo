@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @itspectahemo
 - 👀 I’m interested in improving my coding
-- 🌱 I’m currently learning c++ and how to work with data structures
 - 📫 How to reach me: charlieyoussef21@gmail.com
 
 <!---
